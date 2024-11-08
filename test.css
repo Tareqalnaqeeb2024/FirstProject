@@ -66,6 +66,7 @@ button{
 button:hover{
     background: rgb(34, 101, 224);
     letter-spacing: 1px;
+    padding: auto;
   
 }
 
